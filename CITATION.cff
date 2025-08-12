@@ -1,0 +1,20 @@
+cff-version: 1.2.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tyseng"
+  given-names: "Halvor"
+  orcid: "https://orcid.org/0009-0000-3197-1481"
+- family-names: "Kreutzer"
+  given-names: "Markus Fleten"
+  orcid: "https://orcid.org/0009-0008-8113-3062"
+- family-names: "Mjaaland"
+  given-names: "Jonas Timmann"
+  orcid: "https://orcid.org/0009-0005-3780-1789"
+- family-names: "Odden"
+  given-names: "Tor Ole Bigton"
+  orcid: "https://orcid.org/0000-0003-1635-9491"
+title: "Classifying open-ended survey responses with text embeddings"
+version: 0.0.1
+doi: 
+date-released: 
+url: 
