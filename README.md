@@ -23,7 +23,7 @@ DeFSSCUTE performs well out of the box for selective coding, for our example dat
 
 ### Table of contents
 - [Installation](#installation)
-- [Usage](#usage)
+- [Embedding models](#Embedding_models)
 - [Contributing](#contributing)
 - [Data](#Data)
 - [License](#license)
@@ -37,9 +37,9 @@ pip install -r requirements.txt
 ```
 
 
-## Usage
+## Embedding models
 
-The embedding models we have used
+The embedding models we have used are: 
 
 <table>
   <thead>
