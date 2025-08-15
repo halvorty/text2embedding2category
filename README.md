@@ -6,25 +6,26 @@
 
 ## Description
 
-This repository is published in **relation** to the paper *Classifying open-ended survey responses with text embeddings* by 
-Jonas Timmann Mjaaland, Halvor Tyseng, Markus Fleten Kreutzer, **Rebekkah** K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
+This repository is published in relation to the paper *Classifying open-ended survey responses with text embeddings* by 
+Jonas Timmann Mjaaland, Halvor Tyseng, Markus Fleten Kreutzer, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
 
 ---
 
-**There are three notebooks** that present our main findings <br>
+There are three notebooks that present our main findings <br>
 ### [data_audit.ipynb](data_audit.ipynb)
-This notebook introduces the concept of detecting inconsistencies and edge cases. A text embedding model is used to **embed** all the text in the data. Then we identify text with high similarity that has been coded differently. We **qualitatively** set a cutoff and present **pairs** of **inconsistently** coded text to a qualitative researcher with domain **knowledge** of the classification task. 
+This notebook introduces the concept of detecting inconsistencies and edge cases. A text embedding model is used to embed all the text in the data. Then we identify text with high similarity that has been coded differently. We qualitatively set a cutoff and present pairs of inconsistently coded text to a qualitative researcher with domain knowledge of the classification task. 
 
 ### [defsscute.ipynb](defsscute.ipynb)
-In **defsscute.ipynb** we present our five-step method to perform *Deductive Few-Shot Survey Classification Using Text Embedding* — DeFSSCUTE. This notebook **can be** used to reproduce the results presented in the article by **varying** model, prompt, task, and dataset. 
+In defsscute.ipynb we present our five-step method to perform *Deductive Few-Shot Survey Classification Using Text Embedding* — DeFSSCUTE. This notebook **can be** used to reproduce the results presented in the article by varying model, prompt, task, and dataset. 
 
 ### [finetune.ipynb](finetune.ipynb)  
-DeFSSCUTE **performs** well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses **improves** performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into the folder [finetuned_models](finetuned_models/). **Thereafter**, the model can be substituted into the **defsscute** notebook to check the results. 
+DeFSSCUTE performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into the folder [finetuned_models](finetuned_models/). Thereafter, the model can be substituted into the defsscute notebook to check the results. 
 
 ### Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Data](#Data)
 - [License](#license)
 - [Contact](#contact)
 
@@ -107,6 +108,8 @@ We followed what the embedding model providers listed as how to use the models w
 
 
 ## Contributing
+
+## Data
 
 ## License
 
