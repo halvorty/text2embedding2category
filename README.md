@@ -15,7 +15,7 @@ There are three notebooks that present our main findings <br>
 ### [data_audit.ipynb](data_audit.ipynb)
 This notebook introduces the concept of detecting inconsistencies and edge cases. A text embedding model is used to embed all the text in the data. Then we identify text with high similarity that has been coded differently. We qualitatively set a cutoff and present pairs of inconsistently coded text to a qualitative researcher with domain knowledge of the classification task. 
 
-### [fsscute.ipynb](defsscute.ipynb)
+### [fscute.ipynb](defsscute.ipynb)
 In fscute.ipynb we present our five-step method to perform *Few-Shot Survey Classification Using Text Embedding* f-SCUTE. This notebook can be used to reproduce the results presented in the article by varying model, prompt, task, and dataset. 
 
 ### [finetune.ipynb](finetune.ipynb)  
