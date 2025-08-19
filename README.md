@@ -31,6 +31,8 @@ DeFSSCUTE performs well out of the box for selective coding, for our example dat
 
 ## Installation
 
+**Python version recommended:** Python 3.9+
+
 ```bash
 git clone https://github.com/halvorty/COST.git
 pip install -r requirements.txt
