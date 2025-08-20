@@ -38,7 +38,6 @@ git clone https://github.com/halvorty/COST.git
 pip install -r requirements.txt
 ```
 
-
 ## Embedding models
 
 The embedding models we have used are: 
@@ -110,8 +109,28 @@ We followed what the embedding model providers listed as how to use the models w
 
 
 ## Contributing
+H.T., M.F.K., J.T.M., A.M.S., and T.O.B.O. designed the study and framework;
+R.K.F., G.P., and N.G.H. collected and analyzed the data by hand;
+H.T., M.F.K., and J.T.M. analyzed the data with NLP;
+T.O.B.O., R.K.F., G.P., and N.G.H. vetted the results;
+H.T., M.F.K., and J.T.M. wrote the paper;
+and T.O.B.O., R.K.F., G.P., N.G.H., and A.M.S. edited the paper.
 
 ## Data
+If you any of the datasets included in this repository, please cite:
+
+```bibtex
+@dataset{holmes_2025_16904140,
+	author = {Holmes, Natasha and Passante, Gina and Stump, Emily and Rebeckah, Fussell and Dew, Matthew},
+	doi = {10.5281/zenodo.16904140},
+	month = aug,
+	publisher = {Zenodo},
+	title = {Sources of Uncertainty in Quantum and Classical Measurement Dataset},
+	url = {https://doi.org/10.5281/zenodo.16904140},
+	year = 2025,
+	bdsk-url-1 = {https://doi.org/10.5281/zenodo.16904140}
+  }
+```
 
 ## License
 

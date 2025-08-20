@@ -14,7 +14,30 @@ authors:
   given-names: "Tor Ole Bigton"
   orcid: "https://orcid.org/0000-0003-1635-9491"
 title: "Classifying open-ended survey responses with text embeddings"
-version: 0.0.1
+version: 1.0.0
 doi: 
 date-released: 
 url: 
+
+
+refrences:
+- type: dataset
+  authors:
+    - family-names: "Holmes"
+      given-names: "Natasha"
+    - family-names: "Passante"
+      given-names: "Gina"
+    - family-names: "Stump"
+      given-names: "Emily"
+    - family-names: "Fussell"
+      given-names: "Rebeckah"
+    - family-names: "Dew"
+      given-names: "Matthew"
+  title: "Sources of Uncertainty in Quantum and Classical Measurement Dataset"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.16904140"
+  url: "https://doi.org/10.5281/zenodo.16904140"
+  year: 2025
+  month: 8
+- type: article
+  
