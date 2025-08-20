@@ -15,11 +15,11 @@ There are three notebooks that present our main findings <br>
 ### [data_audit.ipynb](data_audit.ipynb)
 This notebook introduces the concept of detecting inconsistencies and edge cases. A text embedding model is used to embed all the text in the data. Then we identify text with high similarity that has been coded differently. We qualitatively set a cutoff and present pairs of inconsistently coded text to a qualitative researcher with domain knowledge of the classification task. 
 
-### [fscute.ipynb](fsscute.ipynb)
+### [fscute.ipynb](fscute.ipynb)
 In fscute.ipynb we present our five-step method to perform *Few-Shot Survey Classification Using Text Embedding* f-SCUTE. This notebook can be used to reproduce the results presented in the article by varying model, prompt, task, and dataset. 
 
 ### [finetune.ipynb](finetune.ipynb)  
-DeFSSCUTE performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into the folder [finetuned_models](finetuned_models/). Thereafter, the model can be substituted into the defsscute notebook to check the results. 
+f-SCUTE performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into the folder [finetuned_models](finetuned_models/). Thereafter, the model can be substituted into the fscute notebook to check the results. 
 
 ### Table of contents
 - [Installation](#installation)
@@ -118,7 +118,7 @@ and T.O.B.O., R.K.F., G.P., N.G.H., and A.M.S. edited the paper.
 
 ## Data
 If you any of the datasets included in this repository, please cite:
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16904140.svg)](https://doi.org/10.5281/zenodo.16904140)
 ```bibtex
 @dataset{holmes_2025_16904140,
 	author = {Holmes, Natasha and Passante, Gina and Stump, Emily and Rebeckah, Fussell and Dew, Matthew},
