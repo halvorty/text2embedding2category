@@ -117,8 +117,8 @@ H.T., M.F.K., and J.T.M. wrote the paper;
 and T.O.B.O., R.K.F., G.P., N.G.H., and A.M.S. edited the paper.
 
 ## Data
-If you any of the datasets included in this repository, please cite:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16904140.svg)](https://doi.org/10.5281/zenodo.16904140)
+Data used in this repository is found at 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16904140.svg)](https://doi.org/10.5281/zenodo.16904140), cite it:
 ```bibtex
 @dataset{holmes_2025_16904140,
 	author = {Holmes, Natasha and Passante, Gina and Stump, Emily and Rebeckah, Fussell and Dew, Matthew},

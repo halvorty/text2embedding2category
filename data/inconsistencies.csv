@@ -1,0 +1,670 @@
+response_1,code_1,index_1,response_2,code_2,index_2,cosine_distance
+Measurement Error,O,506,Measurement Error,L,40,0.0
+friction,L,516,Friction,O,266,0.0
+Friction,L,2142,Friction,O,266,0.0
+Random errors,O,520,Random errors,L,2610,0.0
+random error,L,2145,random error,O,200,0.0
+Measurement error,L,544,Measurement error,O,1109,0.0
+Experimental error,O,1312,Experimental Error,L,1221,0.0
+friction,L,2125,Friction,O,266,0.0
+experimental error,O,588,Experimental Error,L,1221,0.0
+Random Errors,O,2173,Random errors,L,2610,0.0
+Uncertainty in measurement,L,2175,Uncertainty in measurement,O,1968,0.0
+Friction ,L,1261,Friction,O,266,0.0
+measurement errors,O,607,measurement errors,L,2557,0.0
+Viscosity of water,L,625,viscosity of water,O,2553,0.0
+measurement uncertainty,O,628,Measurement uncertainty,L,2626,0.0
+Measurement error,O,2593,Measurement Error,L,40,0.0
+friction,L,1260,Friction,O,266,0.0
+Measurement error,L,2122,Measurement error,O,21,0.0
+Random error,L,2111,random error,O,200,0.0
+random errors,O,1491,Random errors,L,2610,0.0
+Measurement uncertainty,L,2626,measurement uncertainty,O,628,0.0
+Mass of ball,O,368,mass of ball,L,1965,0.0
+mass of ball,L,1999,Mass of ball,O,368,0.0
+Air drag ,L,1445,Air drag,O,1762,0.0
+speed,O,1434,speed,L,1366,0.0
+speed,L,1366,Speed,O,1009,0.0
+friction,L,1421,Friction,O,266,0.0
+friction,L,1416,Friction,O,266,0.0
+Random error,O,1413,random error,L,1587,0.0
+Random errors,L,2610,Random errors,O,75,0.0
+measurement error,L,412,Measurement error,O,1109,0.0
+Random Errors,O,2078,Random errors,L,2610,0.0
+friction,L,1406,Friction,O,266,0.0
+measurement errors,O,403,measurement errors,L,2557,0.0
+statistics ,O,2570,Statistics,S,268,0.0
+Uncertainty in measurement,O,2569,Uncertainty in measurement,L,2175,0.0
+Systematic errors,L,2566,Systematic errors,O,2311,0.0
+Random error,O,1125,random error,L,1587,0.0
+Measurement error,O,1109,measurement error,L,412,0.0
+Experimental error,O,1104,Experimental Error,L,1221,0.0
+Random chance,L,1103,Random Chance,O,1198,0.0
+measurement error,L,905,Measurement error,O,21,0.0
+Systematic errors,O,2311,Systematic errors,L,2566,0.0
+Friction,L,1130,Friction,O,266,0.0
+Random errors,O,2414,Random errors,L,2610,0.0
+friction,L,1050,Friction,O,266,0.0
+Uncertainty in measurement,L,2341,Uncertainty in measurement,O,1968,0.0
+friction,L,970,Friction,O,266,0.0
+speed,O,1010,speed,L,1366,0.0
+Speed,O,1009,speed,L,1366,0.0
+statistics ,S,991,statistics ,O,2570,0.0
+friction ,L,1062,Friction,O,266,0.0
+friction,L,2470,Friction,O,266,0.0
+the size of the slit,O,834,the size of the slit,L,2820,0.0
+Friction,L,1137,Friction,O,266,0.0
+Measurement error ,O,659,Measurement Error,L,40,0.0
+measurement errors,O,2563,measurement errors,L,2557,0.0
+measurement errors,L,2557,Measurement errors,O,148,0.0
+Measurement error,L,2197,Measurement error,O,21,0.0
+Experimental Error,L,1221,Experimental error,O,299,0.0
+viscosity of water,O,2553,Viscosity of water,L,625,0.0
+Measurement error,O,716,Measurement Error,L,40,0.0
+Friction,L,1209,Friction,O,266,0.0
+Friction,L,2220,Friction,O,266,0.0
+Random Chance,O,1198,Random chance,L,1103,0.0
+speed,O,1187,speed,L,1366,0.0
+Friction,L,1186,Friction,O,266,0.0
+Friction,L,2228,Friction,O,266,0.0
+Measurement error,L,2239,Measurement error,O,21,0.0
+measurement error,O,2242,Measurement Error,L,40,0.0
+Uncertainty in measurement,O,1968,Uncertainty in measurement,L,2175,0.0
+mass of ball,L,1965,Mass of ball,O,368,0.0
+Friction,L,2344,Friction,O,266,0.0
+friction,L,1632,Friction,O,266,0.0
+Measurement error,L,1571,Measurement error,O,21,0.0
+Measurement Error,L,2676,Measurement error,O,21,0.0
+Measurement error,L,2684,Measurement error,O,1109,0.0
+random error,O,200,random error,L,1587,0.0
+Measurement error,L,1576,Measurement error,O,21,0.0
+friction,L,1578,Friction,O,266,0.0
+speed,O,1908,speed,L,1366,0.0
+friction,L,1586,Friction,O,266,0.0
+Random Errors,O,2703,Random errors,L,2610,0.0
+random error,L,1587,random error,O,200,0.0
+Friction,L,165,Friction,O,266,0.0
+friction,L,1898,Friction,O,266,0.0
+Measurement error,O,21,Measurement Error,L,40,0.0
+Measurement errors,O,148,measurement errors,L,2557,0.0
+Measurement Error,L,40,Measurement error,O,21,0.0
+Friction,L,1635,Friction,O,266,0.0
+friction,L,1727,Friction,O,266,0.0
+the size of the slit,L,2820,the size of the slit,O,834,0.0
+friction ,L,1712,Friction,O,266,0.0
+Measurement error ,L,2831,Measurement error,O,21,0.0
+Random errors,O,75,Random errors,L,2610,0.0
+friction,L,1720,Friction,O,266,0.0
+Measurement error,L,50,Measurement error,O,21,0.0
+Air drag,O,1762,Air drag ,L,1445,0.0
+Measurement error,O,2868,Measurement Error,L,40,0.0
+measurement error,L,177,Measurement error,O,21,0.0
+Experimental error,O,299,Experimental Error,L,1221,0.0
+Random error,O,1520,random error,L,1587,0.0
+Random error,O,2658,random error,L,1587,0.0
+Random Error,O,258,random error,L,1587,0.0
+measurement error,L,1787,Measurement error,O,21,0.0
+friction,L,248,Friction,O,266,0.0
+measurement error,O,2640,Measurement Error,L,40,0.0
+friction,L,275,Friction,O,266,0.0
+Measurement errors,O,1530,measurement errors,L,2557,0.0
+Friction,L,247,Friction,O,266,0.0
+Statistics,S,268,statistics ,O,2570,0.0
+Friction,O,266,Friction,L,165,0.0
+Measurement Error,O,304,Measurement Error,L,40,0.0
+Error in measurement,L,195,Error in measurement ,O,899,2.220446049250313e-16
+Randomness,P,2158,Randomness,O,2832,2.220446049250313e-16
+Randomness,P,2534,Randomness,O,2832,2.220446049250313e-16
+error in measurement ,L,1538,Error in measurement ,O,899,2.220446049250313e-16
+Error in measurement,O,2519,Error in measurement,L,195,2.220446049250313e-16
+Error in measurement,L,197,Error in measurement ,O,899,2.220446049250313e-16
+error in measurement,L,366,Error in measurement ,O,899,2.220446049250313e-16
+randomness,P,541,Randomness,O,2832,2.220446049250313e-16
+Randomness,O,2832,Randomness,P,511,2.220446049250313e-16
+Randomness,P,511,Randomness,O,2832,2.220446049250313e-16
+Error in measurement ,O,899,Error in measurement,L,195,2.220446049250313e-16
+Randomness,P,2588,Randomness,O,2832,2.220446049250313e-16
+mass of ball,O,984,mass of ball,L,1965,3.3717473257866004e-13
+measurement errors,L,2288,Measurement errors,O,148,4.065636716177323e-13
+measurement errors,L,1070,Measurement errors,O,148,4.065636716177323e-13
+Random error,O,2548,random error,L,1587,4.1400216588272087e-13
+Random Error,O,741,random error,L,1587,4.1400216588272087e-13
+Initial velocity ,O,1064,initial velocity,L,992,4.3787196091216174e-13
+Initial velocity,L,2305,Initial velocity ,O,1064,4.3787196091216174e-13
+initial velocity,L,992,Initial velocity ,O,1064,4.3787196091216174e-13
+initial velocity,L,1715,Initial velocity ,O,1064,4.4153569689342476e-13
+Initial velocity,L,1233,Initial velocity ,O,1064,4.4153569689342476e-13
+Measurement error.,L,1735,Measurement error. ,O,2152,4.432010314303625e-13
+Measurement error. ,O,2152,Measurement error.,L,1735,4.432010314303625e-13
+measurement error ,L,567,Measurement error,O,21,4.4486636596730023e-13
+Liouville's theorem,P,59,Liouville's theorem,L,814,4.489741911584133e-13
+Liouville's theorem,L,814,Liouville's theorem,P,59,4.489741911584133e-13
+Experimental error,O,1113,Experimental Error,L,1221,4.591882429849647e-13
+Experimental error ,O,714,Experimental Error,L,1221,4.591882429849647e-13
+Speed,L,1302,Speed,O,1009,5.347944309619379e-13
+temperature,P,505,temperature,L,1200,6.128431095930864e-13
+temperature,L,1938,temperature,P,505,6.128431095930864e-13
+temperature,L,1200,temperature,P,505,6.128431095930864e-13
+Width of slit,P,854,Width of the slit ,L,811,0.0060965705636556455
+Width of the slit ,L,811,Width of slit,P,854,0.0060965705636556455
+Mass of the ball,L,292,Mass of ball,O,368,0.009511763133210227
+mass of the ball,L,160,Mass of ball,O,368,0.00951176337232662
+the force of the ball,O,1685,force of the ball ,L,1358,0.010379571406116228
+force of the ball ,L,1358,the force of the ball,O,1685,0.010379571406116228
+The width of the slit,P,898,Width of the slit ,L,811,0.010637153938962807
+Uncertainty in measurements,O,2713,Uncertainty in measurement,L,2175,0.011003882012150745
+Uncertainty in measurements,O,2598,Uncertainty in measurement,L,2175,0.011003882012150745
+Uncertainty in measurements ,O,2375,Uncertainty in measurement,L,2175,0.011003890807529282
+Size of the slit,L,849,the size of the slit,O,834,0.011378147370505576
+The distance from the slit to the screen,P,918,Distance between the slit and the screen,L,917,0.017727386336812923
+Distance between the slit and the screen,L,917,The distance from the slit to the screen,P,918,0.017727386336812923
+Error in measurement.,L,238,Error in measurement ,O,899,0.018544833731913957
+Distance from slit to screen,P,893,Distance between the slit and the screen,L,917,0.019185091373155494
+"Measurement error, ",L,60,Measurement error,O,21,0.019417922726991388
+Error in measurements,L,1821,Error in measurement ,O,899,0.020309382306847645
+"Random error, ",O,515,random error,L,1587,0.02219505507900421
+Imprecision of measurement,O,2195,Imprecision of measurements,L,2171,0.0227774068146247
+Imprecision of measurements,L,2171,Imprecision of measurement,O,2195,0.0227774068146247
+Uncertainty in measuring,L,2189,Uncertainty in measurement,O,1968,0.0231975201509097
+the initial velocity,L,1954,Initial velocity ,O,1064,0.02450492698774298
+Measurement imprecision ,O,866,Imprecision of measurements,L,2171,0.02544551783242832
+velocity ,O,1340,*velocity,L,1676,0.02621707585860067
+*velocity,L,1676,velocity ,O,1340,0.02621707585860067
+Velocity,O,1979,*velocity,L,1676,0.02621707585860067
+Weight of ball?,O,1909,Weight of ball,L,1886,0.027982126579129796
+Weight of ball,L,1886,Weight of ball?,O,1909,0.027982126579129796
+Measurement uncertainties in d,L,2387,Measurement uncertainty of d,O,2597,0.028533803347090547
+Measurement uncertainty of d,O,2597,Measurement uncertainties in d,L,2387,0.028533803347090547
+force applied on the ball,L,1651,the force of the ball,O,1685,0.030138244281738502
+Shape of ball,L,1681,Shape and size of the ball,O,2005,0.03335112574727217
+Shape and size of the ball,O,2005,Shape of ball,L,1681,0.03335112574727217
+"Measurement imprecision, ",O,2183,Imprecision of measurements,L,2171,0.0339736468552686
+Uncertainties in measurements,O,555,Uncertainty in measurement,L,2175,0.03502273284359503
+precision of measurement,O,53,Measurement Precision,L,1878,0.03530162764252154
+Measurement Precision,L,1878,precision of measurement,O,53,0.03530162764252154
+various random fluctuations,L,2636,Random fluctuations,P,499,0.03556654507803003
+Random fluctuations,P,499,various random fluctuations,L,2636,0.03556654507803003
+Error due to measurement,L,684,Error in measurement ,O,899,0.03557412530986992
+"friction, ",L,2211,Friction,O,266,0.03598904180052376
+"friction, ",L,1598,Friction,O,266,0.03598904180052376
+Precision of measurements,O,1800,Measurement Precision,L,1878,0.036344689493567395
+shape of the ball,L,1386,Shape and size of the ball,O,2005,0.036502459574392576
+precision in the measurements,L,469,Precision of measurements,O,1800,0.03667415095552362
+Systematic Error,O,122,Systematic errors,L,2566,0.03674047644633849
+Systematic error,O,691,Systematic errors,L,2566,0.03674047644633849
+Systematic error,O,2661,Systematic errors,L,2566,0.03674047644633849
+Different means of measurement ,O,1147,Differing methods of measurement,L,2260,0.037680744363457475
+Differing methods of measurement,L,2260,Different means of measurement ,O,1147,0.037680744363457475
+Imprecise Measurement,L,1149,Measurement imprecision ,O,866,0.038530336026504575
+Experimental errors,O,2333,Experimental Error,L,1221,0.04090500811961517
+Differences in wavelengths,O,2827,Different wavelengths,L,865,0.04133201073929049
+Different wavelengths,L,865,Differences in wavelengths,O,2827,0.04133201073929049
+Where precisely the ball is placed on the ramp,L,1826,where ball was placed on ramp,O,1569,0.041530497356095375
+where ball was placed on ramp,O,1569,Where precisely the ball is placed on the ramp,L,1826,0.041530497356095375
+error in measuring distance,L,1068,Inaccuracy in measuring distance,O,1935,0.04166465260215879
+Inaccuracy in measuring distance,O,1935,error in measuring distance,L,1068,0.04166465260215879
+Error in Measuring Distance,L,1590,Inaccuracy in measuring distance,O,1935,0.041664663733960494
+Error in measuring distance,L,1479,Inaccuracy in measuring distance,O,1935,0.041664663733960494
+Variations in measuring,L,385,Variation in measurement ,O,2606,0.042009925563523565
+Variation in measurement ,O,2606,Variations in measuring,L,385,0.042009925563523565
+Incorrect or inproper measurement of distance,L,100,Inaccuracy in measuring distance,O,1935,0.04280393843954122
+imperfect measurement of distance,L,1116,Inaccuracy in measuring distance,O,1935,0.04411686713175267
+force being pushed onto the ball,L,1270,the force of the ball,O,1685,0.04641141049947528
+How the measure the particles ,O,2663,Measurement used to measure particles,L,780,0.04658524728848912
+Measurement used to measure particles,L,780,How the measure the particles ,O,2663,0.04658524728848912
+Uncertainty due to measurements ,O,2164,Measurement uncertainty,L,2626,0.0487822755433851
+Limited measuring precision. ,O,445,Limited precision of measurements,L,1465,0.049478423075456135
+Limited precision of measurements,L,1465,Limited measuring precision. ,O,445,0.049478423075456135
+inaccurate measurements of distance,L,1776,Inaccuracy in measuring distance,O,1935,0.04960661784296427
+error in measuring the distance,L,2254,Inaccuracy in measuring distance,O,1935,0.05290341019083855
+Uncertainty in the measurement/reading of d,L,2340,Measurement uncertainty of d,O,2597,0.05369746396206476
+placing of the ball on the ramp,L,10,where ball was placed on ramp,O,1569,0.05480217859968162
+small sample size,L,2654,Low sample size,O,1163,0.055049351540528035
+Low sample size,O,1163,small sample size,L,2654,0.055049351540528035
+different mass of ball,L,1348,Mass of ball,O,368,0.05554845895915439
+Inaccuracy of measurement,L,2602,Error in measurement ,O,899,0.05767282933558737
+Inaccuracy of measurement,L,1655,Error in measurement ,O,899,0.05767282933558737
+Precision of measurement techniques,L,2108,Precision of measurements,O,1800,0.057971137514724824
+"particles,",O,364,different particles,L,2556,0.05940213998607202
+different particles,L,2556,"particles,",O,364,0.05940213998607202
+Inaccuracy in measurement error,L,700,Measurement errors,O,148,0.05963571778794019
+Each of the students could place the ball at a different point on the ramp.,L,1308,majority of the student are able to place the ball in the same location on the ramp,O,157,0.06034429376610717
+majority of the student are able to place the ball in the same location on the ramp,O,157,Each of the students could place the ball at a different point on the ramp.,L,1308,0.06034429376610717
+the mass distribution of the ball,L,241,mass of ball,O,984,0.06061771185329867
+size and weight of ball,L,1701,Weight of ball?,O,1909,0.06172425274277382
+Measuring the distance wrong,L,1379,Inaccuracy in measuring distance,O,1935,0.061819682918910934
+measurement uncertainty/error,L,119,measurement uncertainty,O,628,0.061918970100545034
+Imprecise measurements,L,2123,Measurement imprecision ,O,866,0.06281094784193642
+incorrectly measuring the distance,L,1528,Inaccuracy in measuring distance,O,1935,0.06433480550321236
+measuring error,O,1111,Measurement Error,L,40,0.06444617664856112
+distance measured not accurate,L,2615,Inaccuracy in measuring distance,O,1935,0.06632436357033533
+measurement accuracy,O,1527,accuracy of measurement devices,L,2286,0.06649747032607212
+accuracy of measurement devices,L,2603,measurement accuracy,O,1527,0.06649747032607212
+accuracy of measurement devices,L,2286,measurement accuracy,O,1527,0.06649747032607212
+User error in measurement,L,868,Error in measurement ,O,899,0.06742282162471469
+Measurement error/uncertainty,L,2433,Measurement error,O,1109,0.06869889833865261
+measurement error of d,L,2594,Measurement uncertainty of d,O,2597,0.06950654593507133
+differences in measuring apparatus,L,2466,Different means of measurement ,O,1147,0.06951362511382708
+varying masses of ball,L,1679,Mass of ball,O,368,0.06955223303389246
+possible initial velocity ,L,316,Initial velocity ,O,1064,0.06986742620395947
+measurement inaccuracy,L,400,Measurement imprecision ,O,866,0.0700330793499504
+Measurement inaccuracy,L,374,Measurement imprecision ,O,866,0.0700330793499504
+inaccuracy in measurements,L,1040,Imprecision of measurement,O,2195,0.07074599620954292
+Random uncertainty in measurements,O,1052,Measurement uncertainty,L,2626,0.07219650267342748
+Error in Measuring devices used,L,1838,Error in measurement ,O,899,0.07417314546362397
+particles move randomly,O,2719,Random movement of the particle,P,2639,0.07475898558215233
+Random movement of the particle,P,2639,particles move randomly,O,2719,0.07475898558215233
+imprecision of measurement tools,L,183,Imprecision of measurement,O,2195,0.07578974635069302
+experimental uncertainty/error,O,362,Experimental uncertainties,L,656,0.07631889770942701
+Experimental uncertainties,L,656,experimental uncertainty/error,O,362,0.07631889770942701
+Uncertainty in experimental apparatus,L,2780,Uncertainty due to performing the experiment ,O,1475,0.07636635041629636
+Uncertainty due to performing the experiment ,O,1475,Uncertainty in experimental apparatus,L,2780,0.07636635041629636
+inaccuracy in measurements.,L,1692,Imprecision of measurement,O,2195,0.07698971748715822
+"Students may be placing the ball at slightly different heights on the ramp, ",L,2093,majority of the student are able to place the ball in the same location on the ramp,O,157,0.077132049460794
+Random errors in experiments ,O,1193,random errors in the execution of the experiment,L,91,0.07740484268275083
+random errors in the execution of the experiment,L,91,Random errors in experiments ,O,1193,0.07740484268275083
+Differences in measuring tools,L,604,Different means of measurement ,O,1147,0.07820103968437775
+Measurement error (instrumental precision).,L,1764,Measurement error. ,O,2152,0.07821636283833222
+Statistical error from measurement,S,2200,measurement error ,L,567,0.07911445217743851
+differently sized ball,L,193,Shape and size of the ball,O,2005,0.07937575823089071
+"different measurement tools, and different precision",L,662,Different means of measurement ,O,1147,0.07944617739787974
+Imperfections in measuring the distance travelled,L,503,Inaccuracy in measuring distance,O,1935,0.0795862251840459
+uncertainty ,O,1161,Uncertainties ,L,15,0.08001889990528044
+Uncertainties ,L,15,uncertainty ,O,1161,0.08001889990528044
+Uncertainty ,O,1165,Uncertainties ,L,15,0.08001889990528044
+Human error (incorrect measuring),L,654,Error in measurement ,O,899,0.08281605593263142
+interference,L,821,Possible interference,P,2813,0.08462322415297896
+Possible interference,P,2813,interference,L,821,0.08462322415297896
+Impulse given to the ball,L,927,the force of the ball,O,1685,0.08606537790630442
+Random variation.,O,1067,Random statistical variation,S,785,0.08620504247398686
+Random statistical variation,S,785,Random variation.,O,1067,0.08620504247398686
+random measurement error,L,2393,Random uncertainty in measurements,O,1052,0.0862095615184818
+small differences in each trial causes different values,L,2137,small variation in trials,O,1118,0.08698942910118068
+small variation in trials,O,1118,small differences in each trial causes different values,L,2137,0.08698942910118068
+Students released the ball from different points on the ramp,L,479,majority of the student are able to place the ball in the same location on the ramp,O,157,0.08757943266592916
+The ball might have had extra forces acting on the ball,L,1616,the force of the ball,O,1685,0.08760229680250575
+Human error in measuring,L,1865,Error in measurement ,O,899,0.08780253902695012
+and error in measurement devices ,L,1833,Measurement error. ,O,2152,0.08825336884622281
+Other experimental errors,O,563,Experimental Error,L,1221,0.08857327447144858
+Uncertainty in measuring distance,L,2437,Inaccuracy in measuring distance,O,1935,0.08865940007675088
+Different starting place of ball on ramp,L,1011,where ball was placed on ramp,O,1569,0.0898410215511598
+the angle,L,1612,angle,O,1426,0.08998838597620296
+angle,O,1426,the angle,L,1612,0.08998838597620296
+Students may push the ball forward down the ramp,L,2034,majority of the student are able to place the ball in the same location on the ramp,O,157,0.09016678892570396
+Random error in measurement,L,2552,Random uncertainty in measurements,O,1052,0.0912309166602141
+inconsistent measurements,O,1000,Imprecise measurements,L,2123,0.09145206219115187
+Waiting time,P,638,amount of time waited,L,603,0.09158870129399466
+amount of time waited,L,603,Waiting time,P,638,0.09158870129399466
+force of the ball thrown/dropped,L,1350,the force of the ball,O,1685,0.09190494757915124
+Random environmental errors between the experiments,L,2127,Random errors in experiments ,O,1193,0.09247641417961483
+Velocity and ,O,1012,*velocity,L,1676,0.09281699468582527
+Imperfect shape of ball,L,311,Shape and size of the ball,O,2005,0.09295064830821487
+Different weight of ball,L,961,Weight of ball?,O,1909,0.09313088653867807
+applied pressure on ball,L,1389,the force of the ball,O,1685,0.09324501953450837
+The inherit uncertainty of measurement,P,2700,measurement uncertainty,O,628,0.0934223241836869
+Inaccurate measurements,L,1629,inconsistent measurements,O,1000,0.0935845147066795
+Inaccurate measurements,L,89,inconsistent measurements,O,1000,0.0935845147066795
+Inaccurate measurements,L,1785,inconsistent measurements,O,1000,0.0935845147066795
+Inaccuracy in measuring method,L,1809,Error in measurement ,O,899,0.09434471444419157
+Initial Velocity (Slight Push),L,1041,Initial velocity ,O,1064,0.09479927886584871
+Imprecise distance measurements,L,2550,Inaccuracy in measuring distance,O,1935,0.0948171148519753
+precision mistakes in measuring ,L,957,Error in measurement ,O,899,0.09487982305145082
+human error in measurement,L,1071,Error in measurement ,O,899,0.095226684081827
+Slight differences in measurement tools,L,189,Different means of measurement ,O,1147,0.09526788603117609
+Mistakes in procedure (systematic error),L,2756,Systematic errors,O,2311,0.0967159176942669
+inaccurate measurings,L,1728,inconsistent measurements,O,1000,0.09703448531051273
+Variability,O,1335,Statistical variability,S,2080,0.09719530760831607
+Statistical variability,S,2080,Variability,O,1335,0.09719530760831607
+Statistical Variability,S,2535,Variability,O,1335,0.09719530760831607
+inaccurate measuring,L,397,inconsistent measurements,O,1000,0.0972093388247871
+Inaccurate measuring,L,1561,inconsistent measurements,O,1000,0.0972093388247871
+force of throwing the ball,L,1438,the force of the ball,O,1685,0.09739896523773162
+How high on the ramp the ball started,L,2298,where ball was placed on ramp,O,1569,0.09768254482389338
+incorrect measurements ,L,421,inconsistent measurements,O,1000,0.09868305549272849
+measurements can be taken incorrectly,L,1609,Measurement imprecision ,O,866,0.10008922061626069
+Some measurements are far from the average measurement,O,2851,inaccuracy in measurements.,L,1692,0.10037712649362884
+Improper measurements,L,1691,inconsistent measurements,O,1000,0.10105742097534642
+Incorrect measuring,L,1324,inconsistent measurements,O,1000,0.10210626151069657
+Error in measurement of time and distance,O,514,Error in measuring distance,L,1479,0.10243756956097483
+Using the same ramp and ball,L,1164,the ball and ramp is the same so they will get similar results,O,1877,0.10247307163432162
+the ball and ramp is the same so they will get similar results,O,1877,Using the same ramp and ball,L,1164,0.10247307163432162
+inaccuracy ,O,979,Inaccuracy of measurement,L,1655,0.10279607226456355
+Small differences in the mass of ball,L,933,Mass of ball,O,368,0.10285119500252149
+"error in procedure, measurement, or likely both",O,1945,Error in measurement.,L,238,0.1029474334855035
+where the ball is initially placed on the ramp compared to other setups,L,422,where ball was placed on ramp,O,1569,0.10316831735276255
+"Difference in measuring, ",L,1171,Different means of measurement ,O,1147,0.10336811768574161
+Different slit sizes,L,815,the size of the slit,O,834,0.10353505683946562
+Different height h,L,1047,The height (h).,O,947,0.10389284380653951
+The height (h).,O,947,Different height h,L,1047,0.10389284380653951
+measurement record error ,L,879,Measurement error,O,1109,0.10398164618166494
+Uncertainties when measuring the distance,L,2201,Inaccuracy in measuring distance,O,1935,0.10425156954606296
+Inaccurate measurement,L,2721,inconsistent measurements,O,1000,0.1047353835745014
+human error in measuring the distance,L,1696,Inaccuracy in measuring distance,O,1935,0.10484004522482449
+Human & Measurement Error,L,20,Measurement errors,O,148,0.10511658661386658
+Instrumental precision of the measuring device,L,1483,precision of measurement,O,53,0.10549885752039523
+human error of measuring distance,L,1859,Inaccuracy in measuring distance,O,1935,0.1057723441544548
+measuring incorrectly,L,2485,Error in measurement ,O,899,0.10585816858452701
+The ball isn't as high on the ramp,L,7,where ball was placed on ramp,O,1569,0.10587704957073862
+the direction of the ball running across the ramp,L,312,where ball was placed on ramp,O,1569,0.10620476010362179
+Uncertainty in distance measurements,L,1575,Inaccuracy in measuring distance,O,1935,0.10636846321891358
+Measuring wrong,L,1138,inconsistent measurements,O,1000,0.10645688746410353
+measuring wrong,L,1282,inconsistent measurements,O,1000,0.10645688746410353
+Random variation in the electron's behavior,P,2866,random differences in the production of electrons,L,892,0.10682377476890315
+random differences in the production of electrons,L,892,Random variation in the electron's behavior,P,2866,0.10682377476890315
+Imperfections in measuring,L,171,Error in measurement ,O,899,0.10682646043351751
+The same particles have a chance of being in different places,P,2691,particles not all identical,L,518,0.10709994879642115
+particles not all identical,L,518,The same particles have a chance of being in different places,P,2691,0.10709994879642115
+applied forces when releasing the ball,L,1766,the force of the ball,O,1685,0.1074432817073897
+", the amount of force being put into the ball when released. ",L,1977,the force of the ball,O,1685,0.10816347946944271
+Change in acceleration,L,1887,acceleration,O,1006,0.10835661289834297
+acceleration,O,1006,Change in acceleration,L,1887,0.10835661289834297
+Acceleration,O,1425,Change in acceleration,L,1887,0.10835661289834297
+Errors in measurement (length or time),L,577,Error in measurement ,O,899,0.10866277654952006
+Imprecision in the measuring system used to find d,L,2247,Imprecision of measurement,O,2195,0.10894859633417842
+Inaccuracies or imprecision on the measurement of the location,L,2596,Imprecision of measurement,O,2195,0.10946746906670868
+Uncertainty in measurement of h and d,O,2188,imperfect measurement of h,L,1517,0.10957840400512953
+imperfect measurement of h,L,1517,Uncertainty in measurement of h and d,O,2188,0.10957840400512953
+Mistakes in carrying out the experiment (systematic error),L,2339,Experimental errors,O,2333,0.10970450202705262
+Not accurately measuring,L,1562,inconsistent measurements,O,1000,0.11003417707778207
+Personal error (in measurement),L,956,Error in measurement ,O,899,0.11004691193649763
+force of push,L,1975,amount of force,O,2001,0.11029581386794551
+amount of force,O,2001,force of push,L,1975,0.11029581386794551
+Uncertainty in the measurement of y,O,2766,Uncertainty in measurement,L,2175,0.11039661501780085
+measurement error from the ruler,L,526,Error in measurement ,O,899,0.11124291536221143
+" taking measurements differently,",L,880,Different means of measurement ,O,1147,0.11145513861398282
+Inaccuracy in measuring devices,L,1162,Error in measurement ,O,899,0.11219565439305368
+experimental error in measuring the distances,L,694,Inaccuracy in measuring distance,O,1935,0.1124144627698842
+Variation in the shape and mass of the ball,L,393,Shape and size of the ball,O,2005,0.11248413136293711
+Position of the ball at the start position (top of the ramp),L,8,where ball was placed on ramp,O,1569,0.11262214303748808
+Taking multiple measurements,O,2266," taking measurements differently,",L,880,0.11263092694983434
+Pushing the ball down the ramp,L,2215,where ball was placed on ramp,O,1569,0.11263128745351358
+Student added a force when release the ball.,L,1792,the force of the ball,O,1685,0.11310687811445919
+measurment error,O,1754,Incorrect measurments,L,2447,0.11316186432124231
+Incorrect measurments,L,2447,measurment error,O,1754,0.11316186432124231
+Inaccuracy in measuring d,L,2149,Measurement uncertainty of d,O,2597,0.11407149888103052
+Random uncertainties ,O,2814,Uncertainties ,L,15,0.1144923932884504
+"measurement variation (technique, parallax, etc.)",L,404,Variation in measurement ,O,2606,0.11463023650820969
+Small force on the ball when released,L,1543,the force of the ball,O,1685,0.11466833225922701
+the ball traveling diagonally down the ramp,L,1933,where ball was placed on ramp,O,1569,0.11477316610201882
+Systematic errors (such as performing the experiment incorrectly),L,2465,Experimental errors,O,2333,0.11496674525079675
+Measurement uncertainty of t,O,2632,Measurement uncertainty,L,2626,0.1150693742206309
+"Giving ball initial momentum,",L,2061,the force of the ball,O,1685,0.1152381033084311
+Imperfect measuring equipment,L,579,Error in measurement ,O,899,0.1152687814673502
+Off on the measurement,L,1913,inconsistent measurements,O,1000,0.11537720411063579
+Imperfections in measurement of d,L,2415,Measurement uncertainty of d,O,2597,0.11560410699458723
+Calculation Error: The final measurement may have been estimated or misread.,L,161,Error in measurement ,O,899,0.11572054800677023
+relative error between each measurement.,O,2549,Measurement error.,L,1735,0.11595089332359065
+relative error between each measurement.,O,2119,Measurement error.,L,1735,0.11595095243306452
+Improper measurement,L,2308,inconsistent measurements,O,1000,0.11653141394760469
+different ball: Masses and size,L,1851,Mass of ball,O,368,0.11667572565407613
+Inconsistency in measurement technique,L,1112,Measurement imprecision ,O,866,0.1169168637647161
+the distance from the edge of the table at which the ball is released,L,284,How far the ball went off the table,O,1674,0.11726391827367122
+How far the ball went off the table,O,1674,the distance from the edge of the table at which the ball is released,L,284,0.11726391827367122
+There may be a slight push or hold on the ball.,L,288,the force of the ball,O,1685,0.11728008748121921
+initial velocity not 0,L,1918,Initial velocity ,O,1064,0.11774211954221891
+The diffraction of the electron wave function going through the slit,L,820,I would assume the electron is diffracting through the single slit. The angle scattered is given by sin^-1(n*wavelength/slit distance),P,828,0.11809467618892344
+I would assume the electron is diffracting through the single slit. The angle scattered is given by sin^-1(n*wavelength/slit distance),P,828,The diffraction of the electron wave function going through the slit,L,820,0.11809467618892344
+The initial velocity of particles.,L,692,Initial velocity ,O,1064,0.11822685967300584
+the ball has deformities and not all are exactly the same ,L,2348,Shape and size of the ball,O,2005,0.11852915447760215
+Dropping the ball from x height should drop the ball off at a certain spot,O,2146,the height of which the ball is dropped ,L,1665,0.11854122926245148
+the height of which the ball is dropped ,L,1665,Dropping the ball from x height should drop the ball off at a certain spot,O,2146,0.11854122926245148
+Where they release the ball from the ramp,L,2482,where ball was placed on ramp,O,1569,0.11867181963573137
+Particles are moving at different speeds.,O,596,different particles,L,2556,0.11869134717602137
+"ball going off table at different angles,",L,2223,How far the ball went off the table,O,1674,0.11886164224488616
+Less precision in measuring devices,L,1514,Limited measuring precision. ,O,445,0.11935628375504026
+Rounding errors in measurement,L,2342,Error in measurement ,O,899,0.11945223011273443
+Distance from the electron source,O,2886,Position of the Electron source ,L,862,0.11946089718156738
+Position of the Electron source ,L,862,Distance from the electron source,O,2886,0.11946089718156738
+Waiting different amounts of time,L,2618,Waiting time,P,638,0.11951590577006366
+how the measurements are being taken,L,2442,Taking multiple measurements,O,2266,0.11955589425540702
+Different types of particles,L,2554,"particles,",O,364,0.11986883186604225
+placement of the slit,L,791,the size of the slit,O,834,0.12013918284609182
+Releasing the ball at slightly different points on the ramp.,L,218,each event of letting the ball roll down the ramp is independent,O,2418,0.12033118505750962
+each event of letting the ball roll down the ramp is independent,O,2418,Releasing the ball at slightly different points on the ramp.,L,218,0.12033118505750962
+variations in interpretation of the measurement apparatus,L,2789,Variation in measurement ,O,2606,0.12038212792079184
+magnet location,L,733,magnet,O,721,0.12053317470268843
+magnet,O,721,magnet location,L,733,0.12053317470268843
+Speeds of particles from source,L,658,Particles are moving at different speeds.,O,596,0.12060038539208218
+Varying ball mass/size,L,42,Mass of ball,O,368,0.12090187144481701
+speed of the ball,L,1305,the force of the ball,O,1685,0.12108920000477286
+ error when reading measurement,L,411,Error in measurement ,O,899,0.12137678131669827
+Distance from source to screen,L,902,The distance from the slit to the screen,P,918,0.12141561633841336
+The ball not being perfectly round,L,2509,Shape and size of the ball,O,2005,0.12156139823563916
+varying speeds of the ball as it goes down the ramp,L,1429,each event of letting the ball roll down the ramp is independent,O,2418,0.12161006283830778
+Slight differences in the path the ball takes down the ramp ,L,178,where ball was placed on ramp,O,1569,0.12163881430256418
+Precision of the instruments,L,2431,Precision of measurements,O,1800,0.1219132652005418
+"Possible air movement, either pushing on the ball or acting against it",L,1657,the force of the ball,O,1685,0.12192038562537921
+Statistical error from equipment/experiment setup,L,2743,experimental uncertainty/error,O,362,0.12214122593167442
+Starting height of ball on ramp,L,1786,where ball was placed on ramp,O,1569,0.12228134712142824
+Uncertainty in measurement (from ruler and computer detection),L,2711,Uncertainty in measurement,O,1968,0.12229528247397792
+The distribution appears to follow a normal distribution. This would be expected based on the fact that errors in the experiment should be random.,S,1235,It is basically normal distribution which is like expected from an experiment,L,1054,0.12239990075726748
+It is basically normal distribution which is like expected from an experiment,L,1054,The distribution appears to follow a normal distribution. This would be expected based on the fact that errors in the experiment should be random.,S,1235,0.12239990075726748
+incorrect/misread measurements,L,2794,inconsistent measurements,O,1000,0.12287809221587165
+Uncertainty in measuring/reading off distance d,L,2621,Measurement uncertainty of d,O,2597,0.12295410681265917
+Error in measurement (measuring by eye is unreliable),L,186,Error in measurement ,O,899,0.1229677769995019
+ball is released at different speeds,L,1880,the force of the ball,O,1685,0.12325446051472677
+"Variations in particles from the source (speed, for example)",L,722,Particles are moving at different speeds.,O,596,0.12371388010956508
+students are not measuring distances and heights with the same precision and tools,L,2225,fewer students are measuring 'd' at lesser or greater distances.,O,1402,0.1237770290788609
+fewer students are measuring 'd' at lesser or greater distances.,O,1402,students are not measuring distances and heights with the same precision and tools,L,2225,0.1237770290788609
+Differences in measurement (including uncertainty in the measuring stick),L,2481,Different means of measurement ,O,1147,0.123867153142174
+Measurements not taken at the right positions,L,1719,inconsistent measurements,O,1000,0.12415800898697005
+dropping the ball at slightly different places on the ramp,L,363,where ball was placed on ramp,O,1569,0.12420190085393845
+Density of the ball,O,2033,mass of ball,L,1965,0.12448242117388508
+"Some students are measuring where the ball is hitting the ground in relation to the end of the ramp, while most students are doing so towards the beginning of the ramp",L,140,majority of the student are able to place the ball in the same location on the ramp,O,157,0.12514622129928443
+"force friction, ",L,1387,Friction,O,266,0.12535909352280106
+different velocities of particle,L,2787,Particles are moving at different speeds.,O,596,0.12551959355851838
+Bad measuring,L,1102,Error in measurement ,O,899,0.1255747282981755
+the number of trials,L,1848,More trials,O,1210,0.12563465548917607
+More trials,O,1210,the number of trials,L,1848,0.12563465548917607
+the initial velocity of each particle is different. ,L,2681,Particles are moving at different speeds.,O,596,0.12566495306740688
+the ball bouncing slightly,L,468,the force of the ball,O,1685,0.12578927265226836
+Variation in initial velocity,L,123,Initial velocity ,O,1064,0.1258695755051713
+Random error (explained by the bell curve shape of measurements),S,2284,Random error in measurement,L,2552,0.12587663849476793
+bouncing of the ball,L,1513,the force of the ball,O,1685,0.12591791570971522
+Statistical fluctuations in measurement,S,2740,Random uncertainty in measurements,O,1052,0.12607790756124249
+position of slit,L,858,Width of slit,P,854,0.12613531749022844
+Random motion of the particle,P,2613,particles move randomly,O,2719,0.12623168474598812
+Human Observation/Measurement Error,L,2777,Measurement errors,O,148,0.1263096496863828
+variation in velocity of particles,L,726,Particles are moving at different speeds.,O,596,0.12638874284642887
+Inconsistency in the direction and momentum of the particles,L,655,Uncertainty in the momentum of the particles after passing through a small range of positions,P,711,0.12676667724257296
+Uncertainty in the momentum of the particles after passing through a small range of positions,P,711,Inconsistency in the direction and momentum of the particles,L,655,0.12676667724257296
+external forces from student releasing the ball ,L,1207,the force of the ball,O,1685,0.12679845320746175
+Imperfection of measuring instruments,L,98,Error in measurement ,O,899,0.12686338490391424
+accuracy of the tool that measures d and h,L,1476,Uncertainty in measurement of h and d,O,2188,0.12687538673474918
+material of the ball ,L,1633,Shape and size of the ball,O,2005,0.12708415546375096
+"The students follow the same procedure, so follows normal distribution (supposed to).",S,1937,"This is a normal distribution, so most students are at the mean value of (or one stnd deviation away from) position for the class experiment. ",O,12,0.1272298347044506
+"This is a normal distribution, so most students are at the mean value of (or one stnd deviation away from) position for the class experiment. ",O,12,"The students follow the same procedure, so follows normal distribution (supposed to).",S,1937,0.1272298347044506
+slight deviations in particle speeds,L,2695,Particles are moving at different speeds.,O,596,0.12724400413011938
+Friction Forces,L,2075,Friction,O,266,0.12747175445996006
+the ball is released from different heights,L,1672,the force of the ball,O,1685,0.12761343027842253
+friction force,L,998,Friction,O,266,0.12785270168404694
+friction force,L,997,Friction,O,266,0.12785270168404694
+differences in ball mass,L,1338,Mass of ball,O,368,0.12806039874369146
+ The initial velocity of the ball at its starting position. ,L,346,Initial velocity ,O,1064,0.1283005213068127
+Equipment accuracy/precision (depending on what is used to take measurements),L,1611,Precision of measurements,O,1800,0.1284871510591421
+inaccuracy in calculations ,L,1870,inaccuracy ,O,979,0.12865545755838703
+it is the shape of a standard distribution caused by various human errors,L,45,"There is generally a normal distribution about a mean value that explains the overall shape, but deviations are due to errors.",O,2478,0.128777667423568
+"There is generally a normal distribution about a mean value that explains the overall shape, but deviations are due to errors.",O,2478,it is the shape of a standard distribution caused by various human errors,L,45,0.128777667423568
+slight initial velocity of the ball,L,1794,the force of the ball,O,1685,0.1290050428173306
+"different initial velocity, ",L,1842,Initial velocity ,O,1064,0.12906873775815075
+Initial velocity variance,L,1449,Initial velocity ,O,1064,0.12940056649767506
+The ball may have been pushed/spun in a way to affect the distance,L,1795,the force of the ball,O,1685,0.12944365407335667
+Differences in initial velocity,L,67,Initial velocity ,O,1064,0.1295362456142508
+it a normal distribution ,S,1966,It is basically normal distribution which is like expected from an experiment,L,1054,0.12994921481798727
+ The material the ball is made of. ,L,305,Shape and size of the ball,O,2005,0.13006440946034648
+Error in devices used to make measurements,L,1840,Error in measurement ,O,899,0.13086763043931982
+Type of measuring device,L,2422,Different means of measurement ,O,1147,0.13098984541373626
+Measurement uncertainties in h,O,2264,imperfect measurement of h,L,1517,0.1310564858434773
+the velocity and maybe even acceleration ,L,1258,Velocity and ,O,1012,0.13126558468498362
+"It is a normal distribution, so slight errors cause the measurements to either side of the peak in the middle.",L,1174,"There is generally a normal distribution about a mean value that explains the overall shape, but deviations are due to errors.",O,2478,0.1314157697232039
+People starting their ball at different places on the ramp,L,1687,majority of the student are able to place the ball in the same location on the ramp,O,157,0.13155807098832595
+Human Measurement/Observational Error,L,2419,Measurement error. ,O,2152,0.1315685883716038
+Not precise enough measurement tool,L,2530,Limited measuring precision. ,O,445,0.13186610970099444
+Experiment was not done right,L,1369,Experimental errors,O,2333,0.13190667500695052
+Measurement of distance errors,L,2355,Inaccuracy in measuring distance,O,1935,0.13207107061771084
+Exact placement of ball when being dropped,L,1775,Dropping the ball from x height should drop the ball off at a certain spot,O,2146,0.13214355120779142
+An added initial velocity to ball,L,1069,the force of the ball,O,1685,0.1324117113573744
+Differences in velocity of the particle,L,2653,Particles are moving at different speeds.,O,596,0.13253356762874635
+"Force used when releasing ball, velocity, gravitational force",L,1346,the force of the ball,O,1685,0.13275991850454638
+Human error: slight deviations in measuring,L,1239,Error in measurement ,O,899,0.13283547567706555
+Starting ball not at the top of the ramp,L,2157,where ball was placed on ramp,O,1569,0.1330322968412211
+Spin of particles,P,771,particles' initial spin in not strictly spin-1/2,L,2733,0.13305178032352727
+particles' initial spin in not strictly spin-1/2,L,2733,Spin of particles,P,771,0.13305178032352727
+Systematic / human error,L,2204,Systematic Error,O,122,0.13317883508488726
+how the h and d were measurement,L,1264,Uncertainty in measurement of h and d,O,2188,0.13339025310121344
+Different masses of balls,L,1816,Mass of ball,O,368,0.13344364115186402
+Inconsistencies of the path of the ball down the ramp,L,293,where ball was placed on ramp,O,1569,0.1336922251659779
+Some students probably pushed the ball faster down the ramp then others.,L,1352,majority of the student are able to place the ball in the same location on the ramp,O,157,0.13369905671558924
+Bad measurements,L,1417,inconsistent measurements,O,1000,0.1338305051265305
+The weight of the ball is different.,L,971,Weight of ball?,O,1909,0.13402988963253593
+Random error from the environment,L,2601,Random Error,O,741,0.13408313987363318
+Variations in measurement apparatus for distance,L,2770,Variation in measurement ,O,2606,0.13414530980266415
+Person lets ball go with an initial velocity.,L,1892,the force of the ball,O,1685,0.13420330534661307
+different equipment used to measure d (like different rulers),L,1098,Different means of measurement ,O,1147,0.1344368513511034
+Giving the ball different amounts of force when rolling it down the ramp,L,230,each event of letting the ball roll down the ramp is independent,O,2418,0.13468601108063205
+The particles could be coming out of the source at different positions ,L,675,Particles are moving at different speeds.,O,596,0.1347171141524467
+the kinetic friction,L,1549,Friction,O,266,0.13471782817049704
+temperature could change speed of particles,L,2759,Particles are moving at different speeds.,O,596,0.13484577226498962
+Ball used,L,2013,the force of the ball,O,1685,0.13508129188637308
+Friction of different surfaces,L,1574,Friction,O,266,0.1351441482674004
+uncertainty in measuring distance traveled,L,1768,Inaccuracy in measuring distance,O,1935,0.13534089721821274
+Incorrect experiment,L,1355,Experimental error,O,299,0.13548381765688566
+inadvertent force exerted on the ball on release,L,1076,the force of the ball,O,1685,0.13553431757209677
+Random error from individual experiments,O,2150,Random environmental errors between the experiments,L,2127,0.1356574640838728
+Location of the ball ,L,951,Shape and size of the ball,O,2005,0.1357393755620362
+human error in measuring d,L,937,Error in measurement ,O,899,0.13577964736183223
+human error in measuring d,L,1146,Error in measurement ,O,899,0.13577964736183223
+Human error in measuring d,L,2016,Error in measurement ,O,899,0.13577964736183223
+how hard you push the ball,L,1869,the force of the ball,O,1685,0.13582957265658369
+measuring tools not precise,L,2729,Limited measuring precision. ,O,445,0.13664601051370884
+The distance is what is causing the variation of values ,O,1277,External variables are affecting the distance in different cases,L,1303,0.1366890039740125
+External variables are affecting the distance in different cases,L,1303,The distance is what is causing the variation of values ,O,1277,0.1366890039740125
+Variations of the ball ,L,1982,Shape and size of the ball,O,2005,0.1367523111933706
+Error is typically normally distributed,S,1213,Normal Error,O,1232,0.13717832218505333
+Normal Error,O,1232,Error is typically normally distributed,S,1213,0.13717832218505333
+Pushing the ball,L,1176,the force of the ball,O,1685,0.13724146829075956
+The ball was released from different angles,L,1246,the force of the ball,O,1685,0.13730368075445543
+Small student error in measuring distance,L,1972,Inaccuracy in measuring distance,O,1935,0.13733108673627525
+Imprecise/faulty measuring tools,L,0,Measurement imprecision ,O,866,0.13741814810620268
+lack of precision with measuring d,L,1595,Measurement uncertainty of d,O,2597,0.13746906139425608
+Measurement error (reading the metre stick incorrectly),L,198,Error in measurement ,O,899,0.137714703730469
+Speed of ball,L,1991,the force of the ball,O,1685,0.1377945666039445
+The students are not all starting the ball at the same location,L,1385,majority of the student are able to place the ball in the same location on the ramp,O,157,0.1381108522390363
+"Something ""observing' the particle is adjusting it's trajectory randomly",L,2823,Random movement of the particle,P,2639,0.13823332028045077
+Incorrectly measured parameters such as h or d,L,1817,Uncertainty in measurement of h and d,O,2188,0.1383495808186601
+students are measuring the distance differently whether on the first contact with the ground or with where it stops,L,2063,The distance was different for each student ,O,1363,0.13839653729923873
+The distance was different for each student ,O,1363,students are measuring the distance differently whether on the first contact with the ground or with where it stops,L,2063,0.13839653729923873
+Extra force added,L,1292,amount of force,O,2001,0.13851863674177967
+Instrument Precision,L,484,Precision of measurements,O,1800,0.1385438148019823
+mistake measuring d,L,2302,Error in measurement ,O,899,0.1387268506552134
+Students might not start the ball exactly at the top of the ramp,L,2007,majority of the student are able to place the ball in the same location on the ramp,O,157,0.13901015878878165
+Measurement uncertainty of meter stick.,L,313,Uncertainty in measurement,O,1968,0.1392514035258372
+bias in the measurements,L,2406,bias in the data,O,2560,0.13927104194616124
+bias in the data,O,2560,bias in the measurements,L,2406,0.13927104194616124
+Different mass and/or size of the ball being rolled,L,158,mass of ball,O,984,0.13943154138607716
+Statistical uncertainty,O,1915,Statistical variability,S,2080,0.13945395136344307
+Statistical Uncertainty,O,1090,Statistical variability,S,2080,0.13945395136344307
+Statistical uncertainty,O,1746,Statistical variability,S,2080,0.13945395136344307
+slight weight difference with the ball,L,1407,Weight of ball?,O,1909,0.1396505255872501
+Slightly differing pushes when the ball is released,L,448,the force of the ball,O,1685,0.13981616005980335
+The students could be releasing the ball at different spots.,L,1019,majority of the student are able to place the ball in the same location on the ramp,O,157,0.13986255235333356
+Mass of particle,P,557,particles have different masses,L,2690,0.13997591687262823
+particles have different masses,L,2690,Mass of particle,P,557,0.13997591687262823
+starting the ball at slightly different points on the ramp,L,2019,each event of letting the ball roll down the ramp is independent,O,2418,0.14002021883282711
+the balls could have different masses,L,359,Mass of ball,O,368,0.14007056425129483
+The ball was placed slightly above or below the actual ramp height for some groups.,L,1077,where ball was placed on ramp,O,1569,0.1400970374267112
+the measurement of x may be inaccurate,L,303,Imprecision of measurement,O,2195,0.1401488629223604
+Height of dropping ball on ramp,L,943,where ball was placed on ramp,O,1569,0.14016667597379873
+"Differences in equipment (the ramps are specified to be identical, but the balls and other equipment could differ)",L,2320,the ball and ramp is the same so they will get similar results,O,1877,0.14043322513871004
+"Different people measuring, ",L,121,Taking multiple measurements,O,2266,0.14059530741053217
+"Who is rolling, how much force it being used on the ball",L,1280,the force of the ball,O,1685,0.14065033979172958
+Imprecise measurements on the meter stick ,L,409,Imprecision of measurement,O,2195,0.1406819182110849
+number of particles not identical,L,570,The same particles have a chance of being in different places,P,2691,0.14084893356356254
+Error due to experimental setup,L,736,Experimental error,O,299,0.14100766888822747
+the speed of the ball rolling,L,1325,the force of the ball,O,1685,0.14101515100800543
+ball weight distribution,L,2515,Weight of ball?,O,1909,0.14104823122826582
+The height of release of the ball on the table. ,L,97,How far the ball went off the table,O,1674,0.14135301789928578
+Outlier on far left. Possibly from an incorrect procedure,L,2882,Outlier on left gives slight left skew,O,1579,0.14136637196670976
+Outlier on left gives slight left skew,O,1579,Outlier on far left. Possibly from an incorrect procedure,L,2386,0.14136637196670976
+Outlier on far left. Possibly from an incorrect procedure,L,2386,Outlier on left gives slight left skew,O,1579,0.14136637196670976
+Ball could have been released on side of ramp instead of in the center,L,1934,where ball was placed on ramp,O,1569,0.141450720183118
+multiple trials,O,1107,the number of trials,L,1848,0.14148801999067628
+Chane in initial position of the ball,L,2090,the force of the ball,O,1685,0.1416574438120224
+Student error measuring,L,1565,measuring error,O,1111,0.14171232574536785
+Accidentally applying a force on the ball rather than letting it roll,L,1742,the force of the ball,O,1685,0.14189663521795692
+Quantization of angular momentum,P,664,angular momentum,O,1904,0.1420509204315421
+angular momentum,O,1904,Quantization of angular momentum,P,664,0.1420509204315421
+measurement error from ruler,L,590,Error in measurement ,O,899,0.14212163877029071
+The measurement may have been off,L,1521,inconsistent measurements,O,1000,0.14236394416777476
+measurement instrument imperfections,L,2427,Error in measurement ,O,899,0.1423876545108046
+Experiment is not calibrated correctly,L,2675,experimental uncertainty/error,O,362,0.1423942177790446
+Whether the ball was pushed or placed,L,2151,the force of the ball,O,1685,0.14242850505559268
+There is an outlier meaning a student's data isn't as close to everyone elses.,O,1316,Some students made a substancial error (outlier data point),L,2812,0.14249392773838732
+Some students made a substancial error (outlier data point),L,2812,There is an outlier meaning a student's data isn't as close to everyone elses.,O,1316,0.14249392773838732
+Interference/scattering,P,2835,interference,L,821,0.14270682808784574
+force with which the student releases the ball.,L,2434,the force of the ball,O,1685,0.14272814250595955
+Measurement error of the rulers.,L,605,Error in measurement ,O,899,0.14298965400016583
+Measurement errors with the ruler,L,2645,Error in measurement ,O,899,0.14308753440984523
+Measurement error using the Meter stick,L,2065,Error in measurement ,O,899,0.1433867272304925
+initial speed of the ball,L,1556,the force of the ball,O,1685,0.1435113054544611
+inaccurate measuring of D,L,990,Measurement uncertainty of d,O,2597,0.1435136629759416
+difference in ball roundness/size,L,1516,Shape and size of the ball,O,2005,0.14358174407563007
+Uncertainty in measuring stick,L,1554,Uncertainty in measurement,O,1968,0.1436962787485181
+The apparent bump the ball hits before leaving the table,L,2428,How far the ball went off the table,O,1674,0.14375196265512002
+random error or experimental bias,O,2014,Random environmental errors between the experiments,L,2127,0.14387048536153135
+"The overall distribution is like a Gaussian, which makes sense. Because there is error in measurement. ",L,224,Looks like a decent Gaussian distribution due to random uncertainties in the measurements,S,2102,0.14390490958198354
+Looks like a decent Gaussian distribution due to random uncertainties in the measurements,S,2102,"The overall distribution is like a Gaussian, which makes sense. Because there is error in measurement. ",L,224,0.14390490958198354
+measurement uncertainty in ruler,L,843,Uncertainty in measurement,O,1968,0.14393297418985862
+Maybe the particles have slightly different masses ,L,2732,The same particles have a chance of being in different places,P,2691,0.14394162834996516
+there might be accidentally forces/accelerations when releasing the ball,L,204,the force of the ball,O,1685,0.14420466088470885
+measuring tool,L,1211,Different means of measurement ,O,1147,0.144299217745259
+"the lenght of the desk, ",O,92,Angle of the desk,L,2084,0.14433128168007914
+Angle of the desk,L,2084,"the lenght of the desk, ",O,92,0.14433128168007914
+Measurement method,L,2564,Different means of measurement ,O,1147,0.1445931912167221
+"Uncertainty in measurement (including instrument precision, measuring the x-value of the electrons)",L,2836,Uncertainty in measurements,O,2598,0.1446349810860743
+"lack of precision due to equipment, measuring devices, or calibration thereof",L,1132,Limited measuring precision. ,O,445,0.14501343929318056
+the different speeds at which the particle might be moving on the slide,O,591,moving the particles while moving the slide,L,2635,0.1453211731922711
+moving the particles while moving the slide,L,2635,the different speeds at which the particle might be moving on the slide,O,591,0.1453211731922711
+varying friction,L,1688,Friction,O,266,0.14541356877313127
+"some systematic error causing the position to be skewed (the field is uneven, etc.)",L,2685,Systematic Errors cause slight right skew,O,2237,0.145440006439834
+Systematic Errors cause slight right skew,O,2237,"some systematic error causing the position to be skewed (the field is uneven, etc.)",L,2685,0.145440006439834
+Spread reveals uncertainty in measurement,O,730,Uncertainty in measurement,L,2175,0.14552922034918359
+The ball had a bad roll down the ramp,L,1510,where ball was placed on ramp,O,1569,0.1456722011907825
+human added force,L,1027,amount of force,O,2001,0.14618305984237956
+Error in measurement of the distance on the floor,L,163,Error in measurement ,O,899,0.1464769485876486
+The distance of the ball,L,1336,the force of the ball,O,1685,0.14648714047867062
+More to the right of the distribution because students may have slightly pushed the ball down the ramp,L,99,majority of the student are able to place the ball in the same location on the ramp,O,157,0.14653363910361483
+"Bias in data, ",O,1199,bias in the measurements,L,2406,0.14654142441655593
+same d and same ramp,O,2011,Location of the identical ramp,L,1228,0.14657896891150723
+Location of the identical ramp,L,1228,same d and same ramp,O,2011,0.14657896891150723
+the ball could be different,L,1497,Shape and size of the ball,O,2005,0.14657907162364137
+Friction between ball and ramp,L,2130,where ball was placed on ramp,O,1569,0.1465796447717126
+Different sources of measurements (different students),L,1451,Different means of measurement ,O,1147,0.14667320171860254
+"Variations in the particles sent from the source (velocity, mass, etc)",L,2779,Particles are moving at different speeds.,O,596,0.14683892728693504
+Ball material,L,1976,Shape and size of the ball,O,2005,0.14711872454417574
+distance to detection screen,O,881,spatial resolution of detection screen,L,913,0.1472135472407855
+spatial resolution of detection screen,L,913,distance to detection screen,O,881,0.1472135472407855
+In the time there may be different number of electrons,L,788,different positions of electrons,O,2819,0.1472847726911487
+different positions of electrons,O,2819,In the time there may be different number of electrons,L,788,0.1472847726911487
+Amount of force put into each roll,L,1266,amount of force,O,2001,0.14729039652420306
+Bad measurements/inaccurate ,L,2561,inconsistent measurements,O,1000,0.1478673079558538
+Random Spread,P,910,Random distribution ,O,1135,0.14810046793412368
+Random distribution ,O,1135,Random Spread,P,910,0.14810046793412368
+there are more than 30 measurements,O,2480,Small number of measurements,L,1037,0.14832625449934833
+Small number of measurements,L,1037,there are more than 30 measurements,O,2480,0.14832625449934833
+undertaking several trials,O,1074,the number of trials,L,1848,0.14844521764337715
+Minor statistical randomness,S,645,Randomness,P,511,0.1484963767728803
+Precision of the ruler,L,2842,precision of measurement,O,53,0.14881724826162723
+different ball,L,87,Shape and size of the ball,O,2005,0.14884492158381057
+different ball,L,1522,Shape and size of the ball,O,2005,0.14884492158381057
+The distribution of data from the students falls under an approximate standard normal curve. ,S,1883,"This is a normal distribution, so most students are at the mean value of (or one stnd deviation away from) position for the class experiment. ",O,12,0.14902002611664122
+Particles coming out of the SG with different spins and so deflected differently,P,701,The particles could be coming out of the source at different positions ,L,675,0.14902151403580555
+Maybe not using the correct units of measurement,L,456,Imprecision of measurement,O,2195,0.14907540153432164
+friction/lack thereof,L,1410,Friction,O,266,0.1491224207156191
+different initial velocities,L,174,Initial velocity ,O,1064,0.14924550430667638
+measuring stick accuracy ,L,2401,measurement accuracy,O,1527,0.14926688517544595
+slit isn't perfect,L,2863,the size of the slit,O,834,0.14927070284391963
+the slope that the ball rolls down,L,1875,The slope of the triangle the ball is sitting on. ,O,1383,0.14940823369655531
+The slope of the triangle the ball is sitting on. ,O,1383,the slope that the ball rolls down,L,1875,0.14940823369655531
+difference in method of recording measurements,L,1998,Different means of measurement ,O,1147,0.14973904429452478
+Inaccuracies of the source,L,2745,inaccuracy ,O,979,0.1497950142650437
