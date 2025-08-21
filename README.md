@@ -2,12 +2,12 @@
 
 # Classifying open-ended survey responses with text embeddings
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 
 ## Description
 
 This repository is published in relation to the paper *Classifying open-ended survey responses with text embeddings* by 
-Jonas Timmann Mjaaland, Halvor Tyseng, Markus Fleten Kreutzer, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
+Jonas Timmann Mjaaland, Markus Fleten Kreutzer, Halvor Tyseng, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
 
 ---
 
@@ -19,7 +19,7 @@ This notebook introduces the concept of detecting inconsistencies and edge cases
 In fscute.ipynb we present our five-step method to perform *Few-Shot Survey Classification Using Text Embedding* f-SCUTE. This notebook can be used to reproduce the results presented in the article by varying model, prompt, task, and dataset. 
 
 ### [finetune.ipynb](finetune.ipynb)  
-f-SCUTE performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into the folder [finetuned_models](finetuned_models/). Thereafter, the model can be substituted into the fscute notebook to check the results. 
+f-SCUTE performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into a folder [models](models/). Thereafter, the model can be substituted into the fscute notebook to check the results. 
 
 ### Table of contents
 - [Installation](#installation)
@@ -108,14 +108,6 @@ The embedding models we have used are:
 We followed what the embedding model providers listed as how to use the models with prompts and tasks. "Task" refers to the usage of a LoRA adapter, which is an option for Jina v3.
 
 
-## Contributing
-H.T., M.F.K., J.T.M., A.M.S., and T.O.B.O. designed the study and framework;
-R.K.F., G.P., and N.G.H. collected and analyzed the data by hand;
-H.T., M.F.K., and J.T.M. analyzed the data with NLP;
-T.O.B.O., R.K.F., G.P., and N.G.H. vetted the results;
-H.T., M.F.K., and J.T.M. wrote the paper;
-and T.O.B.O., R.K.F., G.P., N.G.H., and A.M.S. edited the paper.
-
 ## Data
 Data used in this repository is found at 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16912394.svg)](https://doi.org/10.5281/zenodo.16912394), cite it:
@@ -134,7 +126,7 @@ Data used in this repository is found at
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under [CC BY-NC-SA 4.0](LICENSE).
 
 ## Contact
 
