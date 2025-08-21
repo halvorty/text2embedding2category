@@ -110,7 +110,7 @@ We followed what the embedding model providers listed as how to use the models w
 
 ## Data
 Data used in this repository is found at 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16912394.svg)](https://doi.org/10.5281/zenodo.16912394), cite it:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16912394.svg)](https://doi.org/10.5281/zenodo.16912394), please cite:
 ```bibtex
 @dataset{holmes_2025_16912394,
 	author = {Holmes, Natasha and Passante, Gina and Stump, Emily and Rebeckah, Fussell and Dew, Matthew},
