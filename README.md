@@ -118,18 +118,18 @@ and T.O.B.O., R.K.F., G.P., N.G.H., and A.M.S. edited the paper.
 
 ## Data
 Data used in this repository is found at 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16904140.svg)](https://doi.org/10.5281/zenodo.16904140), cite it:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16912394.svg)](https://doi.org/10.5281/zenodo.16912394), cite it:
 ```bibtex
-@dataset{holmes_2025_16904140,
+@dataset{holmes_2025_16912394,
 	author = {Holmes, Natasha and Passante, Gina and Stump, Emily and Rebeckah, Fussell and Dew, Matthew},
-	doi = {10.5281/zenodo.16904140},
+	doi = {10.5281/zenodo.16912394},
 	month = aug,
 	publisher = {Zenodo},
 	title = {Sources of Uncertainty in Quantum and Classical Measurement Dataset},
-	url = {https://doi.org/10.5281/zenodo.16904140},
+	url = {https://doi.org/10.5281/zenodo.16912394},
 	year = 2025,
-	bdsk-url-1 = {https://doi.org/10.5281/zenodo.16904140}
-  }
+	bdsk-url-1 = {https://doi.org/10.5281/zenodo.16912394}}
+
 ```
 
 ## License
