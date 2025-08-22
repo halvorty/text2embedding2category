@@ -1,12 +1,12 @@
-# COST
+# Text to embedding to Category
 
-# Scalable and consistent few-shot classification of survey responses with text embeddings
+# Scalable and consistent few-shot classification of survey responses using text embeddings
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 
 ## Description
 
-This repository is published in relation to the paper *Scalable and consistent few-shot classification of survey responses with text embeddings* by 
+This repository is published in relation to the paper *Scalable and consistent few-shot classification of survey responses using text embeddings* by 
 Jonas Timmann Mjaaland, Markus Fleten Kreutzer, Halvor Tyseng, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
 
 ---
