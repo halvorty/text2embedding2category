@@ -6,7 +6,7 @@
 
 ## Description
 
-This repository is published in relation to the paper *Scalable and consistent few-shot classification of survey responses using text embeddings* by 
+This repository is published in relation to the paper *A Framework for Deductive Semantic Content Analysis at Scale in Science Education Using Text Embeddings* by 
 Jonas Timmann Mjaaland, Markus Fleten Kreutzer, Halvor Tyseng, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
 
 ---
@@ -15,11 +15,11 @@ There are three notebooks that present our main findings <br>
 ### [data_audit.ipynb](data_audit.ipynb)
 This notebook introduces the concept of detecting inconsistencies and edge cases. A text embedding model is used to embed all the text in the data. Then we identify text with high similarity that has been coded differently. We qualitatively set a cutoff and present pairs of inconsistently coded text to a qualitative researcher with domain knowledge of the classification task. 
 
-### [fscute.ipynb](fscute.ipynb)
-In fscute.ipynb we present our five-step method to perform *Few-Shot Survey Classification Using Text Embedding* f-SCUTE. This notebook can be used to reproduce the results presented in the article by varying model, prompt, task, and dataset. 
+### [DeSCA.ipynb](DeSCA.ipynb)
+In fscute.ipynb we present our five-step method to perform *Deductive Semantic Content Analysis* DeSCA. This notebook can be used to reproduce the results presented in the article by varying model, prompt, task, and dataset. 
 
 ### [finetune.ipynb](finetune.ipynb)  
-f-SCUTE performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into a folder [models](models/). Thereafter, the model can be substituted into the fscute notebook to check the results. 
+DeSCA performs well out of the box for selective coding, for our example dataset. When including noisy responses (an "Other" category), performance drops. We find that fine-tuning the embedding models following the guide of [sentence-transformers](https://sbert.net/docs/sentence_transformer/training_overview.html) on only a few responses improves performance. The notebook presents the steps needed to fine-tune a model, and the fine-tuned model is then saved into a folder [models](models/). Thereafter, the model can be substituted into the fscute notebook to check the results. 
 
 ### Table of contents
 - [Installation](#installation)
@@ -34,7 +34,7 @@ f-SCUTE performs well out of the box for selective coding, for our example datas
 **Python version recommended:** Python 3.9+
 
 ```bash
-git clone https://github.com/halvorty/COST.git
+git clone https://github.com/halvorty/text2embedding2category.git
 pip install -r requirements.txt
 ```
 
@@ -107,6 +107,21 @@ The embedding models we have used are:
 
 We followed what the embedding model providers listed as how to use the models with prompts and tasks. "Task" refers to the usage of a LoRA adapter, which is an option for Jina v3.
 
+The full random-centroid analysis in [random_centroids.py](code/random_centroids.py) loops over the following model and instruction/task configurations:
+
+| Model | Instruction passed to `model.encode` | LoRA task |
+| --- | --- | --- |
+| `mixedbread-ai/mxbai-embed-large-v1` | None | None |
+| `nomic-ai/nomic-embed-text-v1` | None | None |
+| `nomic-ai/nomic-embed-text-v1` | `classification: ` | None |
+| `jinaai/jina-embeddings-v2-small-en` | None | None |
+| `jinaai/jina-embeddings-v2-base-en` | None | None |
+| `jinaai/jina-embeddings-v3` | None | None |
+| `jinaai/jina-embeddings-v3` | None | `classification` |
+| `jinaai/jina-embeddings-v3` | None | `text-matching` |
+| `intfloat/multilingual-e5-large-instruct` | None | None |
+| `intfloat/multilingual-e5-large-instruct` | `Instruct: Retrieve semantically similar text \nQuery: ` | None |
+
 
 ## Data
 Data used in this repository is found at 
@@ -135,8 +150,6 @@ Any and all questions can be sent to either:
 halvorty@uio.no
 markusfk@uio.no
 jonastm@uio.no
-
-
 
 
 
