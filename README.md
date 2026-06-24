@@ -95,7 +95,7 @@ The embedding models we have used are:
       <td>None / Classification / STS</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/intfloat/multilingual-e5-large-instruct"><b>Infloat large instruct</b></a></td>
+      <td><a href="https://huggingface.co/intfloat/multilingual-e5-large-instruct"><b>Intfloat large instruct</b></a></td>
       <td><code>intfloat/multilingual-e5-large-instruct</code></td>
       <td align="right">560M</td>
       <td align="right">1024</td>
