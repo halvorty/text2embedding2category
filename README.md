@@ -7,7 +7,7 @@
 ## Description
 
 This repository is published in relation to the paper *A Framework for Deductive Semantic Content Analysis at Scale in Science Education Using Text Embeddings* by 
-Jonas Timmann Mjaaland, Markus Fleten Kreutzer, Halvor Tyseng, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, and Tor Ole B. Odden. 
+Jonas Timmann Mjaaland, Markus Fleten Kreutzer, Halvor Tyseng, Rebeckah K. Fussell, Gina Passante, N.G. Holmes, Anders Malthe-Sørenssen, Benjamin Zwickle and Tor Ole B. Odden. 
 
 ---
 
@@ -138,6 +138,8 @@ Data used in this repository is found at
 	bdsk-url-1 = {https://doi.org/10.5281/zenodo.16912394}}
 
 ```
+
+Data specifically for the [llm_prompy_coding.ipynb](llm_prompy_coding.ipynb) found at [https://github.com/Zwicklab/PERC2026Workshop](https://github.com/Zwicklab/PERC2026Workshop) and as a submodul in [data/llm_coding](data/llm_coding)
 
 ## License
 
